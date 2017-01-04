@@ -1,0 +1,13 @@
+div {
+    margin: 50px auto;
+    width: 700px;
+}
+input {
+    margin: 0 20px;
+    width: 200px;
+    font-size: 18px;
+    border-radius: 5px;
+}
+span {
+    padding-left: 20px;
+}
